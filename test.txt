@@ -5,4 +5,6 @@ Aditi: I'm good. what about you?
 Chiranjib: I'm good.
 Aditi: well. what are you doing now?
 
-Chiranjib: Currently i am working in a bank as a IT Officer. and what about you?
+Chiranjib: Currently i am working in a bank as a Executive IT Officer. and what about you?
+
+Aditi: Currently i am working in a software farm as a senior database engineer.
